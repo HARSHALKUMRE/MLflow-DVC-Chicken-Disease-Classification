@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==2.5.0
 pandas 
 dvc
 mlflow==2.2.2
